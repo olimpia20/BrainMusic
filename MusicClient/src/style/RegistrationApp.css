@@ -1,0 +1,35 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.RegistrationApp {
+    text-align: center;
+    align-content: center;
+    color: mediumpurple;
+    display: table;
+}
+
+.RegistrationApp-h1{
+    text-align: center;
+    font-family: 'Courier New';
+    font-size: large;
+}
+
+.RegistrationApp-body{
+    align-content: center;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right:auto;
+    background-color: black;
+}
+
+.column{
+    float: left;
+    width: 50%;
+    padding: 20px;
+    height: 500px;
+    background-color: #213547;
+}
